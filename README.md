@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MarkCoders
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... programming language  
-- hope i can be better in coding
+Learning...
 
 <!---
 MarkCoders/MarkCoders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
